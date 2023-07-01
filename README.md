@@ -1,6 +1,6 @@
 # Aging-Politicians
 
-![image](https://github.com/cukoh/Aging-Politicians/assets/136646603/86c97e8b-6e6c-42db-9bc1-1a0a0a436c15)
+![image](https://github.com/cukoh/Congress-Age-Demographics-between-1919-2023/assets/136646603/43568a2f-bea4-4891-a389-89a6f4fdbe96)
 
 -------
 # Data Used
